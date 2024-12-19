@@ -1,93 +1,78 @@
 # Axel Adrian
+> Versatile Software Developer focusing on Go
 
-Software Developer
-
-📍 Currently: Thailand  
 📧 hello@axeladrian.com  
-🌐 axeladrian.com  
-🇩🇪 German (Native) | 🇬🇧 English (Professional)
+🌐 [axeladrian.com](https://axeladrian.com)  
+💻 [github.com/axzilla](https://github.com/axzilla)  
+🐦 [x.com/_axzilla](https://x.com/_axzilla)
 
-## Software Development
+## Current Focus
+Building open-source developer tools:
+- [templui.io](https://templui.io) - Modern UI library for Go and Templ
+- [deeploy.sh](https://deeploy.sh) - Self-hosted deployment platform
 
-### 2024 - Present
+## Experience
 
-**Freelance Software Developer**
+### Software Development (2018 - Present)
 
+**Freelance Software Developer** (2024 - Present)
 - Building open-source developer tools
-- Full-stack development (Go, TypeScript)
+- Full-stack development with Go & TypeScript
 - Remote-first workflow
 
-### 2022 - 2023
-
-**Full Stack Developer @ umaversum GmbH**
-
+**Full Stack Developer @ umaversum GmbH** (2022 - 2023)
 - Health-tech mobile apps with Flutter/Dart
 - Backend systems with Go & Node.js
-- DevOps (CI/CD, Azure, Heroku)
+- Cloud infrastructure & DevOps (Azure, Heroku)
 
-### 2020 - 2022
-
-**Full Stack Developer @ Grabacz GmbH**
-
+**Full Stack Developer @ Grabacz GmbH** (2020 - 2022)
 - React/Next.js frontend applications
 - Node.js/Express backend systems
 - MongoDB database architecture
 
-### 2019 - 2020
-
-**Full Stack Developer @ neuefische**
-
+**Full Stack Developer @ neuefische** (2019 - 2020)
 - Full stack JavaScript development
-- React, Node.js, MongoDB stack
 - Teaching & mentoring bootcamp students
+- React, Node.js, MongoDB stack
 
-### 2018 - 2019
-
-**Frontend Developer @ Contenflow**
-
+**Frontend Developer @ Contenflow** (2018 - 2019)
 - Vue.js/Vuex applications
 - Firebase integration
 
-### 2018
-
-**Trainee Full Stack Development @ neuefische**
-
-- Web development bootcamp
-- JavaScript, React, Node.js fundamentals
-- Agile methodologies
-
 ## Tech Stack
-
-```typescript
-const skills = {
-  frontend: ["React", "Next.js", "Vue", "Flutter"],
-  backend: ["Go", "Node.js", "Express"],
-  database: ["PostgreSQL", "MongoDB"],
-  devops: ["CI/CD", "Docker", "Cloud"],
-};
+```go
+var skills = struct {
+    Languages   []string
+    Frontend    []string
+    Backend     []string
+    Database    []string
+    DevOps      []string
+}{
+    Languages:   []string{"Go", "TypeScript", "Dart"},
+    Frontend:    []string{"React", "Next.js", "Vue", "Flutter"},
+    Backend:     []string{"Go", "Node.js"},
+    Database:    []string{"PostgreSQL", "MongoDB"},
+    DevOps:      []string{"Docker", "Linux", "Cloud"},
+}
 ```
 
-## Previous Career
+## Previous Experience
 
-### 2015 - 2018
-
-- Founded & CEO @ NuBytes GmbH (Consumer Electronics Repair)
-- Founded & CEO @ Apfelbude (Apple Product Repair)
+### Entrepreneurship & IT (2014 - 2018)
+- Founded & CEO @ NuBytes GmbH - Consumer Electronics Repair
+- Founded & CEO @ Apfelbude - Apple Product Repair
 - Senior IT-Technician @ Justcom OHG
 - IT-Technician @ Acer Computer GmbH
 
-### 2002 - 2013
-
+### Earlier Career (2002 - 2013)
 - Audio Engineering & Music Production (Deutsche Pop, SAE)
 - Automotive Mechanic Training @ Ernst Dello GmbH
 
-## Life Experience
-
+## Adventures & Personal Development
 - 2023 - 2024: Career break & personal development
-- 2021 - 2022: Living in Thailand
-- 2020 - 2021: Tiny house project
+- 2021 - 2022: Living and working from Thailand
+- 2020 - 2021: Built a tiny house
 - 2018 - 2019: Southeast Asia travels
 
 ---
-
-_Check my current projects: github.com/axzilla_
+🌏 Currently available for remote work worldwide
