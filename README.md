@@ -51,7 +51,7 @@ var skills = struct {
     Languages:   []string{"Go", "TypeScript", "Dart"},
     Frontend:    []string{"React", "Next.js", "Vue", "Flutter"},
     Backend:     []string{"Go", "Node.js"},
-    Database:    []string{"PostgreSQL", "MongoDB"},
+    Database:    []string{"PostgreSQL", "SQLite", "MongoDB"},
     DevOps:      []string{"Docker", "Linux", "Cloud"},
 }
 ```
