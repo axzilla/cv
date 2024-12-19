@@ -1,6 +1,6 @@
 # Axel Adrian
 
-Software Developer & Digital Nomad
+Software Developer
 
 📍 Currently: Thailand  
 📧 hello@axeladrian.com  
