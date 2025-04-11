@@ -4,7 +4,7 @@
 📧 hello@axeladrian.com  
 🌐 [axeladrian.com](https://axeladrian.com)  
 💻 [github.com/axzilla](https://github.com/axzilla)  
-🐦 [x.com/_axzilla](https://x.com/_axzilla)
+🐦 [x.com/_axzilla](https://x.com/axadrn)
 
 ## Current Focus
 Building open-source developer tools:
